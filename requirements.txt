@@ -6,3 +6,9 @@ matplotlib
 matplotlib
 base64
 io
+plotly.express
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+seaborn
