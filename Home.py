@@ -19,7 +19,7 @@ def main():
 
     st.write("Data overview:")
     range_overview = st.slider("Select size", 5, len(data))
-    st.write(data.head(range_overview))
+    st.write(data[:range_overview])
 
     new_df = {}
     for column in data.columns.values:
@@ -27,7 +27,7 @@ def main():
     data_values = pd.DataFrame.from_dict(new_df,orient='index')
     st.write("Data Columns overview:")
     range_columns = st.slider("Select size", 5, len(data_values))
-    st.write(data_values.head(range_columns))
+    st.write(data_values[:range_columns])
     st.sidebar.header("Filters")
 
 
