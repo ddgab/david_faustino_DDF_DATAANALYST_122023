@@ -15,7 +15,12 @@
   - https://metabase-treinamentos.dadosfera.ai/dashboard/74-dashboard-products
 
 **Item  5 - Sobre Data Apps:**
-    - Não foi possivel testar nem editar o modelo exemplo da documentação (https://docs.dadosfera.ai/docs/data-app-com-streamlit)  pois não consegui buildar a maquina python `ENVIRONMENTS`, ficou mais de 4h executando o build com aba aberta e mesmo assim não saiu do `Starting Worker`
-    ![image](https://github.com/ddgab/david_faustino_DDF_DATAANALYST_122023/assets/85763594/cb11ee41-9540-4db8-8172-7c78db3b3ae5)
-   - https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=4a556ffb-1384-4245-a193-78551798c997&pipeline_uuid=af847d11-451f-427f-9359-d48856471c70
+  - Mesmo editando direto no doc`app.Home.py` não consegui executar dentro da plataforma da dadosfera(https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=4a556ffb-1384-4245-a193-78551798c997&pipeline_uuid=af847d11-451f-427f-9359-d48856471c70), tava erro nas libs, porém consegui executar sem problemas na minha maquina (documento neste repositório `Home.py`)
+  -  ![image](https://github.com/ddgab/david_faustino_DDF_DATAANALYST_122023/assets/85763594/f541e3b6-c825-4b0d-87f7-418fb6c40c0f)
+  - ![image](https://github.com/ddgab/david_faustino_DDF_DATAANALYST_122023/assets/85763594/83a71fd3-5100-4986-9ebb-5da71851a6d3)
+  - ![image](https://github.com/ddgab/david_faustino_DDF_DATAANALYST_122023/assets/85763594/613b6252-c56a-42bf-86a4-e6b8c5a82bf0)
+
+**Item Bonus - Sobre GenAI + Data Apps:**
+  -  Por conta da conta free da Openai só consegui gerar 1 imagem por key `generated_image.py`
+
     
